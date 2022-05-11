@@ -1,14 +1,6 @@
 # Caleb Gore 👋
 
 
-| Place | Years | Job |
-| -- | -- | -- |
-| Washington DC | 2009-2011 | Concierge |
-| Paju, South Korea | 2011-2013 | English Teacher |
-| New York City, NY | 2013-2014 | English Teacher | 
-| Boston, MA | 2015-2018 | Wedding Singer | 
-| New York City, NY | 2018-2019 | Program Director | 
-
 
 <!--
 **caleb-gore/caleb-gore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
