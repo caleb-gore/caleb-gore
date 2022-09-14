@@ -1,4 +1,5 @@
-# Caleb Gore 👋
+# Caleb Gore
+### Software Developer
 
 
 
